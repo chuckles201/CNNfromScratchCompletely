@@ -1,4 +1,7 @@
 # CNNfromScratchCompletely
+
+***WORK IN PROGRESS***
+
 Scratch Convolutional Network designed as with only numpy and math :)
 - Scratch Archetecture & Custom Backpropogation/Gradient Descent Engine (Like pytorch)
 - Custom Convolutional Neural Network Architecture based on state-of-the-art models
