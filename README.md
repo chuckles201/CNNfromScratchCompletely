@@ -1,6 +1,6 @@
 # CNNfromScratchCompletely
 
-***WORK IN PROGRESS***
+> ***WORK IN PROGRESS***
 
 Scratch Convolutional Network designed as with only numpy and math :)
 - Scratch Archetecture & Custom Backpropogation/Gradient Descent Engine (Like pytorch)
